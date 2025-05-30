@@ -1,0 +1,22 @@
+{
+  "name": "accompaniment",
+  "version": "1.0.0",
+  "description": "Companion module for the AcCompaniment soundboard app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitfocus-companion-module",
+    "soundboard",
+    "audio",
+    "cue",
+    "osc"
+  ],
+  "author": "Marcin Wardecki",
+  "license": "MIT",
+  "dependencies": {
+    "@companion-module/base": "^1.2.0",
+    "ws": "^8.14.2"
+  }
+} 
